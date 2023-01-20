@@ -1,0 +1,11 @@
+.inputModule_label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+.inputModule_input{
+    display: block;
+    padding: 5px;
+    width: 100% ;
+    box-sizing: border-box;
+}

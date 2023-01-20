@@ -1,0 +1,12 @@
+@media (min-width: 300px) {
+  .planModules {
+    margin: 25px auto;
+  }
+}
+
+@media (min-width: 1000px) {
+  .planModules {
+    margin: 25px 0px;
+    display: flex;
+  }
+}
